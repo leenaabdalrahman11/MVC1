@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\migrations\\20251015083214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\migrations\\20251015083214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\migrations\\20251012082901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\migrations\\20251012082901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79DA8A9D-E457-44B1-B26D-BD84612260A3}|Task\\Task.csproj|c:\\users\\leena\\desktop\\mvc-round12\\task\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,50 +78,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Task\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:59:16.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Update.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Categories\\Update.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Update.cshtml",
+              "RelativeToolTip": "Task\\Views\\Categories\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T08:18:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Task\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Models\\Category.cs",
               "RelativeToolTip": "Task\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T08:27:10.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Task\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Data\\ApplicationDbContext.cs*",
-              "RelativeToolTip": "Task\\Data\\ApplicationDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:23:26.787Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Task\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:46:25.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task",
-              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Task.csproj",
-              "RelativeDocumentMoniker": "Task\\Task.csproj",
-              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Task.csproj*",
-              "RelativeToolTip": "Task\\Task.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T08:09:01.997Z",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Task\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:59:57.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "20251015083214_init.cs",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Migrations\\20251015083214_init.cs",
+              "RelativeDocumentMoniker": "Task\\Migrations\\20251015083214_init.cs",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Migrations\\20251015083214_init.cs",
+              "RelativeToolTip": "Task\\Migrations\\20251015083214_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:32:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251012082901_initial.cs",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Migrations\\20251012082901_initial.cs",
+              "RelativeDocumentMoniker": "Task\\Migrations\\20251012082901_initial.cs",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Migrations\\20251012082901_initial.cs",
+              "RelativeToolTip": "Task\\Migrations\\20251012082901_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:29:02.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T16:27:18.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Task\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:46:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:43:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:23:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.csproj",
+              "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Task.csproj",
+              "RelativeToolTip": "Task\\Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T08:09:01.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Task\\Controllers\\HomeController.cs",
@@ -93,12 +244,11 @@
               "RelativeToolTip": "Task\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:21:34.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:21:34.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Task\\Controllers\\UsersController.cs",
@@ -106,12 +256,11 @@
               "RelativeToolTip": "Task\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:08:34.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:08:34.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "Task\\Views\\Users\\Index.cshtml",
@@ -119,12 +268,11 @@
               "RelativeToolTip": "Task\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T18:16:31.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:16:31.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "Task\\Views\\Users\\Details.cshtml",
@@ -132,12 +280,11 @@
               "RelativeToolTip": "Task\\Views\\Users\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T18:23:03.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:23:03.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\leena\\Desktop\\MVC-Round12\\Task\\Task\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "Task\\Views\\Users\\Create.cshtml",
@@ -145,8 +292,7 @@
               "RelativeToolTip": "Task\\Views\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T18:21:06.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:21:06.343Z"
             }
           ]
         }
